@@ -22,11 +22,11 @@ const Login = () => {
       </h1>
       <form>
         <div className="form-group">
-          <label htmlfor="email">Email</label>
+          <label htmlFor="email">Email</label>
           <input type="email" name="email" value={email} onChange={onChange} />
         </div>
         <div className="form-group">
-          <label htmlfor="password">Password</label>
+          <label htmlFor="password">Password</label>
           <input
             type="password"
             name="password"
