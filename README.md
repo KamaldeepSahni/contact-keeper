@@ -6,7 +6,7 @@ This is the Full App with server, routes and client side app.
 
 ## Usage
 
-Install dependencies
+### Install dependencies
 
 ```bash
 npm install
