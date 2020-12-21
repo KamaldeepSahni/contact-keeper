@@ -2,7 +2,7 @@
 
 > Full stack MERN contact manager with React hooks, context & JWT authentication.
 
-This is the Full App with server and routes
+This is the Full App with server, routes and client side app.
 
 ## Usage
 
